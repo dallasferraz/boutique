@@ -3,7 +3,7 @@ Análise de dados de 2015 a 2017 de uma boutique em Power BI (informações desc
 
 Após transformar em CSV os dados que estavam anteriormente armazenados em DBF, fiz um tratamento de outliers, valores faltantes e padronização de grafia dos itens preenchidos, além de descaracerizar os nomes dos produtos, clientes e vendedores. Esta etapa foi processada em RStudio.
 
-Com isso, foi possível transformar e montar visuais no Power BI, como pode ser visto clicando no ícone abaixo:
+Com isso, foi possível transformar e montar visuais no Power BI, como pode ser visto clicando na imagem abaixo:
 
 [![PowerBI](https://raw.githubusercontent.com/dallasferraz/boutique/master/print.png)](https://app.powerbi.com/view?r=eyJrIjoiMDBmMDJhNGUtODYzYi00Yjc3LWFhZTUtNGI3MDFhZjRkZjQ2IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
 
